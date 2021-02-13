@@ -11,7 +11,7 @@ func main() {
 	num := 2000000000
 
 	for i := 1; i <= num; i++ {
-		if num % i == 0 {
+		if num%i == 0 {
 			fmt.Printf("%d is a factor of %v\n", i, num)
 		}
 	}
