@@ -8,4 +8,4 @@ for i = 1, num+1 do
 	end
 end
 
-print(string.format("Time taken: %.2f\ns", os.clock() - start))
+print(string.format("Time taken: %.2fs\n", os.clock() - start))
