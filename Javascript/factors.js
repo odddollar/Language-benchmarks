@@ -3,7 +3,7 @@ function factors() {
 
 	const num = 2000000000;
 	
-	for (var i = 1; i <= num; i++) {
+	for (let i = 1; i <= num; i++) {
 		if (num % i == 0) {
 			console.log(`${i} is a factor of ${num}`);
 		}
