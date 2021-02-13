@@ -8,7 +8,7 @@ Each language directory will contain these benchmarks:
 
 - Finding the factors of 2,000,000,000
 - Finding the 50th Fibonacci number using a recursive function
-- Finding all prime numbers up to _
+- Finding all prime numbers up to 15,000
 
 All benchmarks must use the same basic algorithm/method. E.g. The Go factor benchmark must use the same algorithm as the Python factor benchmark.
 
