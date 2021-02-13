@@ -14,7 +14,7 @@ func main() {
 		var factors []int
 
 		for j := 1; j <= i; j++ {
-			if i % j == 0 {
+			if i%j == 0 {
 				factors = append(factors, j)
 			}
 		}
