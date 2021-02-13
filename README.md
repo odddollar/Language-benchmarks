@@ -2,7 +2,7 @@
 
 This repository is a collection of basic benchmarks to test the speed of numerous programming languages. Every language has the same set of easy to run/compile benchmarks that can be downloaded and tested on a user's computer.
 
-### Benchmarks
+## Benchmarks
 
 Each language directory will contain these benchmarks:
 
@@ -16,11 +16,11 @@ Benchmarks must end with a message that says how long the benchmark took to comp
 
 All language directories must contain a README.md file with instructions on how to compile/run the benchmarks.
 
-### Contributing
+## Contributing
 
 If you wish to contribute to this repo/project, ensure the benchmarks you create follow the above rules and are in a language that hasn't already been submitted. Submit a pull request containing the benchmarks in another language to be added to this.
 
-### Languages
+## Languages
 
 Languages there are currently benchmarks for:
 
