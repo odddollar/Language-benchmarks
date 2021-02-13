@@ -9,7 +9,6 @@ Each language directory will contain these benchmarks:
 - Finding the factors of 2,000,000,000
 - Finding the _ Fibonacci number
 - Finding all prime numbers up to _
-- Constructing and reversing an array of 10,000 square numbers
 
 All benchmarks must use the same basic algorithm/method. E.g. The Go factor benchmark must use the same algorithm as the Python factor benchmark.
 
