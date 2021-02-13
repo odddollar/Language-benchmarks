@@ -7,7 +7,7 @@ This repository is a collection of basic benchmarks to test the speed of numerou
 Each language directory will contain these benchmarks:
 
 - Finding the factors of 2,000,000,000
-- Finding the _ Fibonacci number
+- Finding the 50th Fibonacci number using a recursive function
 - Finding all prime numbers up to _
 
 All benchmarks must use the same basic algorithm/method. E.g. The Go factor benchmark must use the same algorithm as the Python factor benchmark.
