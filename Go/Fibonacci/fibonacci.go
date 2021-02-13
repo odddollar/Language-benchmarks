@@ -8,7 +8,7 @@ import (
 func main() {
 	start := time.Now()
 
-	for i := 1; i < 50; i++ {
+	for i := 1; i <= 50; i++ {
 		fmt.Println(i, fib(i))
 	}
 
