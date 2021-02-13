@@ -4,7 +4,7 @@ This repository is a collection of basic benchmarks to test the speed of numerou
 
 ### Benchmarks
 
-Each language folder will contain these benchmarks:
+Each language directory will contain these benchmarks:
 
 - Finding the factors of 2,000,000,000
 - Finding the _ Fibonacci number
@@ -14,6 +14,8 @@ Each language folder will contain these benchmarks:
 All benchmarks must use the same basic algorithm/method. E.g. The Go factor benchmark must use the same algorithm as the Python factor benchmark.
 
 Benchmarks must end with a message that says how long the benchmark took to complete.
+
+All language directories must contain a README.md file with instructions on how to compile/run the benchmarks.
 
 ### Contributing
 
