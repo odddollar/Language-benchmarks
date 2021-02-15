@@ -24,6 +24,7 @@ If you wish to contribute to this repo/project, ensure the benchmarks you create
 
 Languages there are currently benchmarks for:
 
+- Crystal
 - Go
 - Javascript
 - Lua
