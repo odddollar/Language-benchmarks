@@ -30,4 +30,5 @@ Languages there are currently benchmarks for:
 - Lua
 - Nim
 - Python
+- Rust
 
