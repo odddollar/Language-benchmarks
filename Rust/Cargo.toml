@@ -1,0 +1,22 @@
+[package]
+name = "rust_benchmarks"
+version = "0.1.0"
+authors = ["Andrea Manzini <ilmanzo@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[[bin]]
+name = "factors"
+path = "src/factors.rs"
+
+[[bin]]
+name = "fibonacci"
+path = "src/fibonacci.rs"
+
+[[bin]]
+name = "primes"
+path = "src/primes.rs"
