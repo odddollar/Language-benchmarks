@@ -1,7 +1,7 @@
 start = Time.monotonic
 
 1_i64.upto 50_i64 do |i|
-  puts i, fib(i)
+  puts "#{i} #{fib(i)}"
 end
 
 puts "Finished in:", Time.monotonic - start
