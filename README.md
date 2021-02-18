@@ -29,6 +29,7 @@ Languages there are currently benchmarks for:
 - Javascript
 - Lua
 - Nim
+- PHP
 - Python
 - Rust
 
