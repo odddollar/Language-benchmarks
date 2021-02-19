@@ -26,6 +26,7 @@ Languages there are currently benchmarks for:
 
 - Crystal
 - Go
+- Java
 - Javascript
 - Lua
 - Nim
