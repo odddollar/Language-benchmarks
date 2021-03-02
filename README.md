@@ -24,13 +24,13 @@ If you wish to contribute to this repo/project, ensure the benchmarks you create
 
 Languages there are currently benchmarks for:
 
-- Crystal
-- Go
-- Java
-- Javascript
-- Lua
-- Nim
-- PHP
-- Python
-- Rust
-
+- [Crystal](https://crystal-lang.org/)
+- [Go](https://golang.org/)
+- [Java](https://www.java.com/)
+- [JavaScript](https://www.javascript.com/)
+- [Lua](http://www.lua.org/)
+- [Nim](https://nim-lang.org/)
+- [PHP](https://www.php.net/)
+- [Python](https://www.python.org/)
+- [Rust](https://www.rust-lang.org/)
+- [V](https://vlang.io/)
