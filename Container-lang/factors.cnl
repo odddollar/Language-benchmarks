@@ -1,0 +1,6 @@
+{6|num <- 2000000000}
+{1|BLOCK 3}
+    {4|BLOCK 1}
+        {5|PRINTLN i2}
+    {3|IF num%i2==0, 4}
+{2|REPEAT 1, num+1}
