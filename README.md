@@ -24,6 +24,7 @@ If you wish to contribute to this repo/project, ensure the benchmarks you create
 
 Languages there are currently benchmarks for:
 
+- [C](https://gcc.gnu.org/)
 - [Container-lang](https://github.com/odddollar/Container-lang)
 - [Crystal](https://crystal-lang.org/)
 - [Go](https://golang.org/)
