@@ -7,5 +7,5 @@
    ```
    
 2. Open the *Java* folder in a terminal
-3. Type `java <nameofthetest>` to launch the benchmark, *eg* `java factors.java
+3. Type ```java [NAME OF JAVA FILE]``` to launch the benchmark, *eg* `java factors.java
 
